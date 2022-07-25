@@ -4,6 +4,9 @@
 ## .vmn folder ##
 /.mvn
 
+## compiled class
+target
+
 ## other files
 OpenBootcamp.iml
 pom.xml
