@@ -1,6 +1,6 @@
 package com.example.openbootcamp;
 
-public class Ejer1 {
+public class ExerciseOne {
     public static void main(String[] args) {
 
         //First Part
