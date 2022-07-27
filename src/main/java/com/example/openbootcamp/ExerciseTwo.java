@@ -23,6 +23,16 @@ package com.example.openbootcamp;
 public class ExerciseTwo {
     public static void main(String[] args) {
         // first part
+       conditionals();
+
+        // second Part
+        loops();
+
+        // Third Part
+        switches();
+    }
+
+    public static void conditionals(){
         System.out.println("-------------------First Part---------------------");
         int numberIf = 0;
         if (numberIf > 0) {
@@ -32,8 +42,9 @@ public class ExerciseTwo {
         } else {
             System.out.println("Number " + numberIf + " is equeals to 0.");
         }
+    }
 
-        // second Part
+    public static void loops(){
         System.out.println("-------------------Second Part---------------------");
         int numberWhile = 0;
         while (numberWhile < 3) {
@@ -50,8 +61,9 @@ public class ExerciseTwo {
         for (int i = 0; i <= numberFor; i++) {
             System.out.println("Value of numberFor id: " + i);
         }
+    }
 
-        // Third Part
+    public static void switches(){
         System.out.println("-------------------Third Part---------------------");
         String season = "sumer";
 
