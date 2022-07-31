@@ -4,8 +4,6 @@
     <img alt="Twitter: FranckAbgrall" src="https://img.shields.io/twitter/follow/GaastonMaartin.svg?style=social" target="_blank" />
   </a>
 </p>
-
-> Full stack route from OpenBootcamp
 -------------------------------------------
 ## ✨Courses
 - 🚀 IntroProg
