@@ -1,7 +1,13 @@
 <h1 align="center"> Repository for OpenBootcamp course. 👋</h1>
 <p align="center">
   <a href="https://twitter.com/GaastonMaartin">
-    <img alt="Twitter: FranckAbgrall" src="https://img.shields.io/twitter/follow/GaastonMaartin.svg?style=social" target="_blank" />
+    <img alt="Twitter: GaastonMaartin" src="https://img.shields.io/twitter/follow/GaastonMaartin.svg?style=social" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/gaston_martiin/">
+    <img alt="Github: Gaaston12" src="https://img.shields.io/github/followers/Gaaston12?style=social" target="_blank" />
+  </a>
+   <a href="https://www.instagram.com/gaston_martiin/">
+    <img alt="Reddit: Gaaston12" src="https://img.shields.io/reddit/subreddit-subscribers/Gaaston12?style=social" target="_blank" />
   </a>
 </p>
 
