@@ -12,10 +12,10 @@
 </p>
 
 ## ✨Courses
-- 🚀 IntroProg
+- 🚀 /IntroProg
   First course for the fullstack route.
   
-- 🚀 JSBasico
+- 🚀 /JSBasico
   Course for basic JavaScript with Node.
   
 > Each exercise is in a specific branch: Exercise One -> branch = Ejer1
