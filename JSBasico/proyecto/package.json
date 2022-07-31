@@ -1,0 +1,13 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "curso basico de js con node en open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludo": "node holaMundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaston Martin",
+  "license": "ISC"
+}
